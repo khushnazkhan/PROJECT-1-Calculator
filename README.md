@@ -2,7 +2,7 @@
 
 # 1. Project Tilte 
 .    
- my project name "Advance python calculator".
+ my project name "Scientific  python calculator".
 
  # description :
  my project python-based scientific calculator with advanced function such as trignometric functions, logarithms, square roots, factorials, and more."
@@ -27,5 +27,7 @@
   Support for degree and radians
 
   Other operations  (remainder, percantage, power function, pai,equal, backspace, close , clear, point.)
+  # Tkinter Library
+  python GUI application tkinter library mosy commany used and every point is easly solved 
 
 
