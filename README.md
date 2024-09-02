@@ -28,6 +28,6 @@
 
   Other operations  (remainder, percantage, power function, pai,equal, backspace, close , clear, point.)
   # Tkinter Library
-  python GUI application tkinter library mosy commany used and every point is easly solved 
+  python GUI application tkinter library most commaly used and every point is easly solved 
 
-
+https://github.com/khushnazkhan/PROJECT-1-Calculator/commit/4fed0e30c6ee06cd6290b7e2eba2e38a45bc5705?diff=unified&w=1#commitcomment-146089292
