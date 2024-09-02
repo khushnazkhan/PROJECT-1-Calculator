@@ -28,10 +28,4 @@
 
   Other operations  (remainder, percantage, power function, pai,equal, backspace, close , clear, point.)
 
-  # Installation and setup 
 
-  first step : python version 3.12 install and run it 
-
-  second step: visual studio code install and run it 
-  after runing vs cde create a folder for example ( GUI calculator) 
-  
